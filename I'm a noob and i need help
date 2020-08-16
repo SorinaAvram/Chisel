@@ -1,0 +1,10 @@
+Hi, 
+
+I want to make Chisel work, can you please help? 
+--> I get this error :  from .widgets import BurgerButton, Chisel, Cursor, OptionsPanel, ToolButton 
+ImportError: attempted relative import with no known parent package
+I tried installing the requirements.txt, but I get this: 
+ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'requirements.txt'
+I also found this solution but I don't fully understand it: https://napuzba.com/a/import-error-relative-no-parent/p2
+Could you please explain to me, step by step (like in a guide for dummies) what I 've to do to make it work ? 
+Thanks a lot! 
